@@ -130,7 +130,8 @@ repo/
 ---
 
 ## License and originality
-Original work for a take‑home assignment. No paid APIs used. Keep repository under 50 MB.
+Original work for a take‑home assignment. No paid APIs used. 
+
 
 
 
